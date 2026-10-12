@@ -9,3 +9,4 @@ else
 echo "a is smaller than b"
 fi
 didi tera dever deewana 
+dil deewana bin samjane ke mane na 
