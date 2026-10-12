@@ -11,3 +11,5 @@ fi
 didi tera dever deewana 
 beintehin bheinteinhna uh pyar kar 
 pavli na taal vr naach
+baki sab thik hain 
+
